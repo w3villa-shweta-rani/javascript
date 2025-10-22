@@ -36,6 +36,8 @@ function a() {
     }
 }
 a();
+
 // console.log(b);
+document.getElementById("tittle").style.color = "blue";
 
-
+console.log("helle javaScript");
