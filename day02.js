@@ -26,9 +26,9 @@ console.log(cities[2])
 
 // Type conversion
 
-// let num = number("erica");
-// let names = String(23);
-// console.log(typeof(num), typeof(names))
+let num = number("erica");
+let names = String(23);
+console.log(typeof(num), typeof(names))
 
 // if, else if, else
 let x =0;
@@ -94,7 +94,7 @@ numbers.forEach(function(num){
 })
 
 //for loop usecase
-fruits = ["apple", "bnana", 'Avacado']
-for(let fruit of fruits){
-    console.log(fruit);
+vegetables = ["potato", "onion", 'brinjles']
+for(let vege of vegetables){
+    console.log(vege);
 }
